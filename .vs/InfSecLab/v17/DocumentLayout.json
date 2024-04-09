@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0414\u0435\u043D\u0438\u0441\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0418\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u043E\u043D\u043D\u0430\u044F \u0431\u0435\u0437\u043E\u043F\u0430\u0441\u043D\u043E\u0441\u0442\u044C\\InfSecLab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3073AA9C-DB0E-4253-85F1-E4F4906368F5}|InfSecLab\\InfSecLab.csproj|c:\\users\\\u0434\u0435\u043D\u0438\u0441\\desktop\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u043E\u043D\u043D\u0430\u044F \u0431\u0435\u0437\u043E\u043F\u0430\u0441\u043D\u043E\u0441\u0442\u044C\\infseclab\\infseclab\\windows\\belazocodewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3073AA9C-DB0E-4253-85F1-E4F4906368F5}|InfSecLab\\InfSecLab.csproj|solutionrelative:infseclab\\windows\\belazocodewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3073AA9C-DB0E-4253-85F1-E4F4906368F5}|InfSecLab\\InfSecLab.csproj|c:\\users\\\u0434\u0435\u043D\u0438\u0441\\desktop\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u043E\u043D\u043D\u0430\u044F \u0431\u0435\u0437\u043E\u043F\u0430\u0441\u043D\u043E\u0441\u0442\u044C\\infseclab\\infseclab\\windows\\caesarcodewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3073AA9C-DB0E-4253-85F1-E4F4906368F5}|InfSecLab\\InfSecLab.csproj|solutionrelative:infseclab\\windows\\caesarcodewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{25f7e850-ffa1-11d0-b63f-00a0c922e851}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BelazoCodeWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0435\u043D\u0438\u0441\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0418\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u043E\u043D\u043D\u0430\u044F \u0431\u0435\u0437\u043E\u043F\u0430\u0441\u043D\u043E\u0441\u0442\u044C\\InfSecLab\\InfSecLab\\Windows\\BelazoCodeWindow.xaml.cs",
+              "RelativeDocumentMoniker": "InfSecLab\\Windows\\BelazoCodeWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0435\u043D\u0438\u0441\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0418\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u043E\u043D\u043D\u0430\u044F \u0431\u0435\u0437\u043E\u043F\u0430\u0441\u043D\u043E\u0441\u0442\u044C\\InfSecLab\\InfSecLab\\Windows\\BelazoCodeWindow.xaml.cs",
+              "RelativeToolTip": "InfSecLab\\Windows\\BelazoCodeWindow.xaml.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAAIMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T06:14:16.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CaesarCodeWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0435\u043D\u0438\u0441\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0418\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u043E\u043D\u043D\u0430\u044F \u0431\u0435\u0437\u043E\u043F\u0430\u0441\u043D\u043E\u0441\u0442\u044C\\InfSecLab\\InfSecLab\\Windows\\CaesarCodeWindow.xaml.cs",
+              "RelativeDocumentMoniker": "InfSecLab\\Windows\\CaesarCodeWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0435\u043D\u0438\u0441\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0418\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u043E\u043D\u043D\u0430\u044F \u0431\u0435\u0437\u043E\u043F\u0430\u0441\u043D\u043E\u0441\u0442\u044C\\InfSecLab\\InfSecLab\\Windows\\CaesarCodeWindow.xaml.cs",
+              "RelativeToolTip": "InfSecLab\\Windows\\CaesarCodeWindow.xaml.cs",
+              "ViewState": "AQIAAPIAAAAAAAAAAAASwP4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T03:57:33.513Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

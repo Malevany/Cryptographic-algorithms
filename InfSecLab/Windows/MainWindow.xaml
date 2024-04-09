@@ -1,0 +1,16 @@
+﻿<Window x:Class="InfSecLab.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:InfSecLab"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Image Source="C:\Users\Денис\Desktop\Учеба\3 курс 2 семестр\Информационная безопасность\InfSecLab\InfSecLab\Image\294019_O.jpg" Stretch="Fill"/>
+        <StackPanel Orientation="Vertical" VerticalAlignment="Center" HorizontalAlignment="Center">
+            <Button x:Name="CaesarCodeButton" Content="Шифр Цезаря" Height="Auto" Width="Auto" Margin="10" FontSize="20" Background="LightGreen" Click="CaesarCodeButton_Click"/>
+            <Button x:Name="BelazoCodeButton" Content="Шифр Белазо" Height="Auto" Width="Auto" Margin="10" FontSize="20" Background="LightGreen" Click="BelazoCodeButton_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>
